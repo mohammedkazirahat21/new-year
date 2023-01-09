@@ -29,3 +29,128 @@
     height: 64px;
     background: #F15B22;
   }
+  .year{
+    margin: 0 200px;
+    align-items: center;
+    display: flex;
+    margin-right: 120px;
+    margin-top: 70px;
+  }
+  
+  .title{
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 47px;
+    width: 288px;
+    height: 94px;
+    left: 800px;
+    top: 1178px;
+  }
+  .dis{
+    font-weight: 400;
+    font-size: 16px;
+    width: 416px;
+    height: 104px;
+    left: 800px;
+    top: 1296px;
+    margin-top: -10px;
+    color: #444343;
+  }
+  .list{
+    margin-top: -60px;
+    width: 315px;
+    height: 26px;
+     left: 896px;
+    top: 1416px;
+    color: #444343;
+  }
+.plans{
+  text-align: center;
+  margin-top: 60px;
+  font-weight: 700;
+  font-size: 40px;
+
+}
+.plan-container{
+  margin-left: 420px;
+  display: flex;
+  gap: 40px;
+}
+.plan-title{
+  font-weight: 700;
+ font-size: 30px;
+}
+.plan-dis{
+  font-weight: 500;
+   font-size: 25px;
+}
+.watch{
+  display: flex;
+}
+.watch-img{
+  margin: 100px 390px;
+    width: 1000px;
+    height: 200px;
+}
+.gradient{
+  margin: 100px -1400px 390px;
+    width: 1000px;
+    height: 200px;
+}
+.new-exp{
+  margin-left: 450px;
+  position: absolute;
+  margin-top: 170px;
+    font-weight: 700;
+    font-size: 40px;
+    color: rgb(230, 195, 195);     
+  }
+  .btn-call{
+    margin-left: 450px;
+    position: absolute;
+    margin-top: 220px;
+      font-weight: 600;
+      font-size: 15px;
+      color: #F15B22;
+      border: none;
+  }
+  .contact{
+    display: flex;
+    gap: 300px;
+    background-color: #151414;
+    color: aliceblue;
+    padding: 130px 200px;
+    margin-top: -350px;
+  }
+  .sic{
+    text-align: center;
+    margin-left: 150px;
+    width: 485px;
+    height: 78px;
+  }
+  .title-t{
+    margin-left: 160px;
+    width: 148px;
+   height: 53px;
+  }
+    .icon{
+      margin-left: 160px;
+    }
+    .email{
+      margin-left: 160px;
+    }
+    .phone{
+      margin-left: 160px;
+    }
+    .sub-bt{
+      width: 130.11px;
+      height: 40px; 
+      color: #F15B22;  
+      margin-top: 5px;
+      border: none;
+    }
+    .action{
+      width: 250px;
+      height: 30px;
+      background-color: #151414;
+    }
